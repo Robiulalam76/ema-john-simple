@@ -6,6 +6,11 @@
     position: relative;
 }
 
+.orders-container {
+    margin-top: 100px;
+    text-align: center;
+}
+
 .product img {
     width: 286px;
     margin: 7px;

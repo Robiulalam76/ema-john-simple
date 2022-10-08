@@ -22,6 +22,19 @@
     text-align: center;
 }
 
+.review-btn {
+    border: none;
+    width: 100%;
+    padding: 7px 15px;
+    margin-top: 10px;
+    background-color: #FF9900;
+    color: white;
+}
+
+.review-btn:hover {
+    background-color: #8a5505;
+}
+
 
 /* Responsive */
 @media screen and (max-width: 912px) {

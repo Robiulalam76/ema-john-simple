@@ -3,3 +3,16 @@
     position: sticky;
     top: 0;
 }
+
+.clear-btn {
+    border: none;
+    width: 100%;
+    padding: 7px 15px;
+    margin-top: 10px;
+    background-color: #FF3030;
+    color: white;
+}
+
+.clear-btn:hover {
+    background-color: #af1e1e;
+}
