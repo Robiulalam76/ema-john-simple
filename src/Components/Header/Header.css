@@ -16,9 +16,9 @@
 
 .header a:hover {
     color: orange;
-    font-size: 18px;
+    /* font-size: 18px; */
 }
 
 .header a {
-    transition: ease-in 1s;
+    transition: ease-in 0.20s;
 }

@@ -1,9 +1,10 @@
 import React from 'react';
+import Product from '../Product/Product';
 
 const Home = () => {
     return (
         <div>
-            <h1>this is home page</h1>
+            <h1 style={{ textAlign: 'center', fontSize: '50px' }}>This is Home Page</h1>
         </div>
     );
 };
